@@ -1,0 +1,5 @@
+I believe I did very well on the last assignment. I like the way I defined my variables and split the sentences into individual words 
+so I don't have to use more code than necessary since it was easier to track for me. One thing I know I could improve on when it comes 
+to this assignment is probably more notes. I include some but they are not very detailed in my opinion, and it'd be helpful when looking 
+back at it for a future example. I do know I need a lot more practice since it took me a while to import the file without using the import 
+command. I want to be able to do it off the top of my head without the help of any outside sources.

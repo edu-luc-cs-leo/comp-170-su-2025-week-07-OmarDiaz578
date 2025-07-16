@@ -42,10 +42,12 @@ class Motorcycle(Vehicle):
     def __init__(self) -> None:
         super().__init__("Motorcycle", 50)
             
-
 class Bus(Vehicle):
     def __init__(self) -> None:
         super().__init__("Bus", 8)
+
+
+
 
 
 
